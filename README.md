@@ -38,3 +38,8 @@ List of free and downloadable top 1M domain list.
 
 - Download page: https://tranco-list.eu/
 - Download link: https://tranco-list.eu/top-1m.csv.zip
+
+### Cloudflare
+
+- Download page: https://radar.cloudflare.com/domains
+- Download link: https://radar.cloudflare.com/charts/LargerTopDomainsTable/attachment?id=105&n=1000000&d=undefined

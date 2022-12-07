@@ -2,6 +2,10 @@
 
 List of free and downloadable top 1M domain list.
 
+As Alexa.com was now retired, you can use these other services as alternatives.
+
+Please feel free to send a pull request for any other free and downloadable top 1M domain list.
+
 ## Lists
 
 ### Alexa

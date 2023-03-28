@@ -1,8 +1,8 @@
 # Top 1 Million Domains
 
-List of free and downloadable top 1M domain list.
+A collection of free and directly downloadable top 1M domain lists, a suitable alternative to the now-retired Alexa.com service.
 
-As Alexa.com was now retired, you can use these other services as alternatives.
+These alternative services offer a solution for obtaining top domain data in the absence of Alexa.com.
 
 Please feel free to send a pull request for any other free and downloadable top 1M domain list.
 

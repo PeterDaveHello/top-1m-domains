@@ -46,4 +46,4 @@ Please feel free to send a pull request for any other free and downloadable top 
 ### Cloudflare
 
 - Download page: https://radar.cloudflare.com/domains
-- Download link: https://radar.cloudflare.com/charts/LargerTopDomainsTable/attachment?id=525&top=1000000
+- Download link: https://radar.cloudflare.com/charts/LargerTopDomainsTable/attachment?id=711&top=1000000

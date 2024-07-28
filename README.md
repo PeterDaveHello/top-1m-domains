@@ -11,7 +11,7 @@ Please feel free to send a pull request for any other free and downloadable top 
 ### Alexa
 
 - Download page: https://alexa.com/ (End of Service at middle of 2022)
-- Download link: https://s3.amazonaws.com/alexa-static/top-1m.csv.zip
+- Download link: https://s3-us-west-1.amazonaws.com/umbrella-static/top-1m.csv.zip
 
 ### Cisco Umbrella
 

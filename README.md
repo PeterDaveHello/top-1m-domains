@@ -28,11 +28,6 @@ Please feel free to send a pull request for any other free and downloadable top 
 - Download page: https://builtwith.com/top-1m
 - Download link: https://builtwith.com/dl/builtwith-top1m.zip
 
-### Statvoo
-
-- Download page: https://statvoo.com/top/ranked
-- Download link: https://statvoo.com/dl/top-1million-sites.csv.zip
-
 ### DomCop
 
 - Download page: https://www.domcop.com/top-10-million-websites

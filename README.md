@@ -47,3 +47,8 @@ Please feel free to send a pull request for any other free and downloadable top 
 
 - Download page: https://github.com/zakird/crux-top-lists
 - Download link: https://raw.githubusercontent.com/zakird/crux-top-lists/main/data/global/current.csv.gz
+
+### CommonCrawl
+
+- Download page: https://commoncrawl.github.io/cc-crawl-statistics/plots/domains
+- Download link: https://commoncrawl.github.io/cc-crawl-statistics/plots/domains-top-500.csv

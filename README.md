@@ -42,3 +42,8 @@ Please feel free to send a pull request for any other free and downloadable top 
 
 - Download page: https://radar.cloudflare.com/domains
 - Download link: https://radar.cloudflare.com/charts/LargerTopDomainsTable/attachment?id=1257&top=1000000
+
+### CrUX
+
+- Download page: https://github.com/zakird/crux-top-lists
+- Download link: https://raw.githubusercontent.com/zakird/crux-top-lists/main/data/global/current.csv.gz

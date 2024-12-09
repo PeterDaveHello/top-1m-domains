@@ -28,11 +28,6 @@ Please feel free to send a pull request for any other free and downloadable top 
 - Download page: https://builtwith.com/top-1m
 - Download link: https://builtwith.com/dl/builtwith-top1m.zip
 
-### Statvoo
-
-- Download page: https://statvoo.com/top/ranked
-- Download link: https://statvoo.com/dl/top-1million-sites.csv.zip
-
 ### DomCop
 
 - Download page: https://www.domcop.com/top-10-million-websites
@@ -47,3 +42,13 @@ Please feel free to send a pull request for any other free and downloadable top 
 
 - Download page: https://radar.cloudflare.com/domains
 - Download link: https://radar.cloudflare.com/charts/LargerTopDomainsTable/attachment?id=1257&top=1000000
+
+### CrUX
+
+- Download page: https://github.com/zakird/crux-top-lists
+- Download link: https://raw.githubusercontent.com/zakird/crux-top-lists/main/data/global/current.csv.gz
+
+### CommonCrawl
+
+- Download page: https://commoncrawl.github.io/cc-crawl-statistics/plots/domains
+- Download link: https://commoncrawl.github.io/cc-crawl-statistics/plots/domains-top-500.csv

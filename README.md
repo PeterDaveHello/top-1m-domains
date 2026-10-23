@@ -47,3 +47,8 @@ Please feel free to send a pull request for any other free and downloadable top 
 
 - Download page: https://radar.cloudflare.com/domains
 - Download link: https://radar.cloudflare.com/charts/LargerTopDomainsTable/attachment?id=1257&top=1000000
+
+### NetAPI
+
+- Download page: https://netapi.com/top-1-mln-websites/
+- Download link: https://netapi.com/netapi_top1mln.csv
